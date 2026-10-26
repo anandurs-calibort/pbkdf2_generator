@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="pbkdf2_generator"
+        android:label="PBKDF2 Generator"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
